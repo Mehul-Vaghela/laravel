@@ -33,7 +33,7 @@
             </ul>
         </nav>
         <div class="copyright pull-right">
-            &copy; 2017, made with <i class="material-icons">favorite</i> by Mehul Vaghela.
+            &copy; 2017, made with <i class="material-icons">favorite</i> by Creative Tim and Edit by Mehul Vaghela.
         </div>
     </div>
 </footer>
