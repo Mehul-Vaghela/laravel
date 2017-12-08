@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'/>
+    <meta name="google-site-verification" content="X7v9Dp5FhNQbSWZctVk_hRJvwbgMdYy-W_tEZPXgdqs" />
     <meta name="Description" content="web Development,web scrapping,social-media integration,web API,Rest API">
     <meta name="Keywords" content="Mehul Vaghela">
     <!--     Fonts and icons     -->
