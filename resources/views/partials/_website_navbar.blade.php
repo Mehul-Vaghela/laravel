@@ -23,28 +23,28 @@
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a rel="tooltip" title="Follow Me on Twitter" data-placement="bottom"
-                       href="https://twitter.com/CreativeTim" target="_blank"
+                       href="https://twitter.com/mehulvaghela31" target="_blank"
                        class="btn btn-simple btn-just-icon">
                         <i class="fa fa-twitter"></i>
                     </a>
                 </li>
                 <li>
-                    <a rel="tooltip" title="Add Me on Facebook" data-placement="bottom"
-                       href="https://www.facebook.com/CreativeTim" target="_blank"
+                    <a rel="tooltip" title="View On GITHUB" data-placement="bottom"
+                       href="https://github.com/Mehul-Vaghela" target="_blank"
                        class="btn btn-simple btn-just-icon">
-                        <i class="fa fa-facebook-square"></i>
+                        <i class="fa fa-github"></i>
                     </a>
                 </li>
                 <li>
                     <a rel="tooltip" title="Follow Me on LinkedIn" data-placement="bottom"
-                       href="https://www.instagram.com/CreativeTimOfficial" target="_blank"
+                       href="https://www.linkedin.com/in/mehul-vaghela-88461baa/" target="_blank"
                        class="btn btn-simple btn-just-icon">
                         <i class="fa fa-linkedin"></i>
                     </a>
                 </li>
                 <li>
                     <a rel="tooltip" title="Mehul Vaghela" data-placement="bottom"
-                       href="https://www.instagram.com/CreativeTimOfficial" target="_blank"
+                       href="#" target="_blank"
                        class="btn btn-simple btn-just-icon">
                         <i class="fa fa-user"></i>
                     </a>
